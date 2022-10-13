@@ -1,0 +1,19 @@
+.contanie{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+   color: white;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+    background-image: url(https://img.freepik.com/fotos-gratis/fundo-de-ficcao-cientifica-futurista-moderno_35913-2150.jpg?w=2000)
+      
+}
+
+ 
